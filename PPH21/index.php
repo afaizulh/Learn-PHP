@@ -10,4 +10,4 @@ $calculator = new PPH21Calculate($first, $second, $third, $fourth);
 
 echo $calculator->calculate(25000000);
 echo PHP_EOL;
-echo $calculator->calculate(30000000);
+
