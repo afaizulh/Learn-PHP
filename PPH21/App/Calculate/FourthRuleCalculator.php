@@ -1,10 +1,12 @@
 <?php
+namespace App\Calculate;
+
 //file: FourthRuleCalculator.php
 class FourthRuleCalculator extends AbstractCalculator
 {
     public function maxPkp(): float
     {
-        return 999999999999999999999999999999999999999;
+        return 999999999999999999;
     }
     public function minPkp(): float
     {

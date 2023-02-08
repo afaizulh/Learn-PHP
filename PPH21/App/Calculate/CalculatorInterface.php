@@ -1,4 +1,5 @@
 <?php
+namespace App\Calculate;
 
 interface CalculatorInterface
 {

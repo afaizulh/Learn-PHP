@@ -1,4 +1,6 @@
 <?php
+namespace App\Calculate;
+
 //file: ThirdRuleCalculator.php
 class ThirdRuleCalculator extends AbstractCalculator
 {

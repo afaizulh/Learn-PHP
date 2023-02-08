@@ -1,4 +1,6 @@
 <?php
+namespace App\Calculate;
+
 //file: FirstRuleCalculator.php
 class FirstRuleCalculator extends AbstractCalculator
 {
